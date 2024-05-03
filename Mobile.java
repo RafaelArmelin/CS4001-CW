@@ -1,6 +1,3 @@
-import java.awt.*;
-import javax.swing.*;
-
 public class Mobile extends Gadget
 {
     // instance variables
